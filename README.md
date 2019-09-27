@@ -1,2 +1,2 @@
-# php_crud
-crud with php 🤯
+# php crud
+Crud basic with php 🤯
